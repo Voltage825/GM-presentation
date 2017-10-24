@@ -1,0 +1,33 @@
+.text-landing, .text-intro {
+    color: #fff;
+}
+
+
+
+.intro {
+    padding-right: 700px;
+}
+
+.using-mui-image {
+    margin-top: 150px !important;
+    height: 60% !important;
+    width: 100% !important;
+}
+
+.celine-image-container, .using-mui-image-container {
+    background-color: rgb(235,235,235);
+}
+
+.celine-image {
+    height: 100% !important;
+    width: 75% !important;
+}
+
+.solar-logo {
+    width: 440px !important;
+}
+
+.black {
+    background-color: black;
+    color: #fff;
+}
